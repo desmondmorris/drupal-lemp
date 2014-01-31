@@ -34,3 +34,6 @@ RUN apt-get -qqy install varnish libvarnish-dev
 # Install solr
 RUN apt-get -qqy install openjdk-6-jdk
 RUN apt-get -qqy install solr-tomcat
+
+# Install drush
+RUN apt-get -qqy install drush
