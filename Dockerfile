@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Desmond Morris "hi@desmondmorris.com"
+MAINTAINER Timani Tunduwani "timani27@gnail.com"
 
 RUN export DEBIAN_FRONTEND=noninteractive
 
